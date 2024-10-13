@@ -30,7 +30,7 @@ enum CropAspectRatioPreset implements CropAspectRatioPresetData {
       case CropAspectRatioPreset.original:
         return 'original';
       case CropAspectRatioPreset.square:
-        return 'square';
+        return 'Square';
       case CropAspectRatioPreset.ratio3x2:
         return '3x2';
       case CropAspectRatioPreset.ratio4x3:
