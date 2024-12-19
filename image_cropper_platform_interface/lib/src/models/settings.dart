@@ -28,7 +28,7 @@ enum CropAspectRatioPreset implements CropAspectRatioPresetData {
   String get name {
     switch (this) {
       case CropAspectRatioPreset.original:
-        return 'original';
+        return 'Original';
       case CropAspectRatioPreset.square:
         return 'Square';
       case CropAspectRatioPreset.ratio3x2:
